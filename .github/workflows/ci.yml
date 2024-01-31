@@ -1,0 +1,56 @@
+
+name: github pages
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+# see https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-gatsby
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      # deps
+      - run: sudo yarn global add gatsby-cli@^4.24.0 --prefix /usr/local
+      - run: yarn add gatsby@^4.24.0
+      #- run: gatsby telemetry --disable
+
+      # install deps
+      - run: yarn install
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      #- run: npm ci
+      #- run: yarn run format
+      #- run: yarn run test
+      - run: yarn run clean
+      - run: PREFIX_PATHS=true yarn run build
+      - name: Deploy
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # see https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: ${{ github.event.head_commit.message }}
+
