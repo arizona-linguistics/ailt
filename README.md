@@ -24,6 +24,12 @@ The site can be developed using either 1) `docker` or 2) Node JS (>= v12).
 
 ## Option 1: Docker-based method
 
+create a directory called `app` and move to that directory:
+
+```bash
+mkdir app && cd app
+```
+
 Pull the docker image:
 
 ```bash
