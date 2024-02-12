@@ -24,24 +24,16 @@ The site can be developed using either 1) `docker` or 2) Node JS (>= v12).
 
 ## Option 1: Docker-based method
 
-Pull the docker image:
+Build the docker image:
 
 ```bash
-docker pull "parsertongue/gatsby-dev:latest"
+docker build -f "Dockerfile" -t "ailt/project-site:latest" .
 ```
 
 Launch the site in development mode on port 8881:
 
 ```bash
-docker run -it -p "8881:8000" -v "$PWD:/app" "parsertongue/gatsby-dev:latest"
-```
-
-### Notes
-
-If you install new dependencies/alter `package.json`, you'll need to rebuild the docker image:
-
-```bash
-docker build -f Dockerfile -t "parsertongue/gatsby-dev:latest" .
+docker run -it -p "8881:8000" -v "$PWD:/app" "ailt/project-site:latest"
 ```
 
 ## Option 2: Node JS
