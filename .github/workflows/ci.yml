@@ -42,7 +42,7 @@ jobs:
       #- run: yarn run format
       #- run: yarn run test
       - run: yarn run clean
-      - run: PREFIX_PATHS=true yarn run build
+      - run: PREFIX_PATHS=false yarn run build
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
