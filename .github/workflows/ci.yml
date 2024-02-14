@@ -42,14 +42,14 @@ jobs:
       #- run: yarn run format
       #- run: yarn run test
       - run: yarn run clean
-      - run: PREFIX_PATHS=true yarn run build
+      - run: PREFIX_PATHS=false yarn run build
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
         with:
           # see https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./public/ailt
           #cname: ailt.arizona.edu
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
