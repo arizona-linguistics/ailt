@@ -57,10 +57,10 @@ module.exports = {
             title: `Team`,
             slug: `/team`,
           },
-          // {
-          //   title: `Projects`,
-          //   slug: `/projects`,
-          // },
+          {
+            title: `Projects`,
+            slug: `/projects`,
+          },
           {
             title: `Events`,
             slug: `/events`,
