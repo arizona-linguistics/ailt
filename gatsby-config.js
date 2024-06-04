@@ -65,12 +65,17 @@ module.exports = {
             title: `Events`,
             slug: `/events`,
           },
+          {
+            name: `Courses`,
+            slug: `/courses`
+          },
         ],
         externalLinks: [
           {
             name: `GitHub`,
             url: `https://github.com/arizona-linguistics/ailt`,
           }
+
           // {
           //   name: `Twitter`,
           //   url: `https://twitter.com/myedibleenso`,
