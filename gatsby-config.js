@@ -66,7 +66,7 @@ module.exports = {
             slug: `/events`,
           },
           {
-            name: `Courses`,
+            title: `Courses`,
             slug: `/courses`
           },
         ],
