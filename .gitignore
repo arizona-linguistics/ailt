@@ -68,3 +68,7 @@ public
 .idea/
 .vscode/
 .DS_Store
+
+# Project-specific
+
+**/.DS_Store

@@ -1,0 +1,77 @@
+Metadata-Version: 2.1
+Name: ailt
+Version: 0.1.0
+Summary: Advancing Indigenous Language Technologies
+Author-email: Amy Fountain <avf@arizona.edu>
+License: CC BY-SA 4.0
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi~=0.100.0
+Requires-Dist: starlette
+Requires-Dist: httpx
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
+Requires-Dist: typing_extensions
+Requires-Dist: func_timeout
+Requires-Dist: mkdocs-material==9.2.7
+Requires-Dist: pillow~=9.3.0
+Requires-Dist: cairosvg~=2.5.2
+Requires-Dist: mdx-include~=1.4.1
+Requires-Dist: coverage[toml]<8.0,>=6.2
+Requires-Dist: mkdocs-markdownextradata-plugin<0.3.0,>=0.1.7
+Requires-Dist: pdoc3==0.10.0
+Requires-Dist: mkdocs-git-snippet==0.1.1
+Requires-Dist: mkdocs-git-revision-date-localized-plugin==0.11.1
+Requires-Dist: mkdocs-git-authors-plugin==0.6.3
+Requires-Dist: mkdocs-rtd-dropdown==1.0.2
+Requires-Dist: jinja2<3.1.0
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: pytest-xdist; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
+Requires-Dist: coverage; extra == "dev"
+Provides-Extra: demo
+Requires-Dist: notebook; extra == "demo"
+Provides-Extra: all
+Requires-Dist: ailt[dev]; extra == "all"
+Requires-Dist: ailt[demo]; extra == "all"
+
+# AILT: Intro to Databases (course)
+
+Based on the documentation of [`tiangalo/sqlmodel`](https://github.com/tiangolo/sqlmodel/tree/main/docs).
+
+## Development
+
+Create a new conda environment:
+
+```sh
+conda create -y -n "ailt" python=3.11 ipython
+```
+
+Activate the conda environment:
+
+```sh
+conda activate ailt
+```
+
+Install `ailt` in editable mode during development:
+
+```sh
+pip install -e ".[all]"
+```
+
+# Developing the website
+
+We use [`mkdocs`](https://www.mkdocs.org/) as our static site generator and use the [material theme](https://github.com/squidfunk/mkdocs-material).  Our content and layout is based on the documentation for the [`sqlmodel` Python library](https://github.com/tiangolo/sqlmodel).
+
+
+```bash
+mkdocs serve -a "127.0.0.1:8000" -w docs
+```
+
+## Notes
+- Site source files are located under `docs`
+- Page navigation is defined in `mkdocs.yml`

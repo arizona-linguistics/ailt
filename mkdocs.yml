@@ -1,0 +1,99 @@
+INHERIT: ./mkdocs.maybe-insiders.yml
+site_name: "AILT: Advancing Indigenous Language Technologies"
+site_description: AILT Project Homepage
+site_url: https://arizona-linguistics/ailt/
+theme:
+  name: material
+  # logo: img/logos/logo.png
+  custom_dir: docs/overrides
+  palette:
+  - scheme: default
+    primary: grey
+    accent: amber
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - scheme: slate
+    primary: grey
+    accent: amber
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  # - navigation.tabs
+  # icon:
+    # logo: img/logo-margin/quilt-icon.svg
+    # repo: fontawesome/brands/github-alt
+    # logo: img/icon-white.svg
+    # favicon: img/favicon.png
+  language: en
+repo_name: arizona-linguistics/ailt
+repo_url: https://github.com/arizona-linguistics/ailt
+edit_uri: ''
+plugins:
+  search: null
+  markdownextradata:
+    data: ./data
+
+nav:
+  - Overview: index.md
+  - Team: team.md
+  - Activities: events.md
+  - Courses: courses.md
+  - Contact Us: contact.md
+
+markdown_extensions:
+  markdown.extensions.attr_list:
+  markdown.extensions.tables:
+  markdown.extensions.md_in_html:
+  toc:
+    permalink: true
+  pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format ''
+  pymdownx.betterem:
+  pymdownx.blocks.details:
+  pymdownx.blocks.admonition:
+    types:
+    - note
+    - info
+    - tip
+    - warning
+    - danger
+  pymdownx.blocks.tab:
+    alternate_style: True
+  pymdownx.inlinehilite:
+  mdx_include:
+
+extra:
+  # analytics:
+  #   provider: google
+  #   property: G-??????
+  social:
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/arizona-linguistics/ailt-intro-to-databases
+  # - icon: fontawesome/brands/twitter
+  #   link: https://twitter.com/???
+  # - icon: fontawesome/brands/linkedin
+  #   link: https://www.linkedin.com/in/???
+  - icon: fontawesome/solid/globe
+    link: https://arizona-linguistics.github.io/ailt
+
+extra_css:
+  - css/termynal.css
+  - css/custom.css
+
+extra_javascript:
+  - js/termynal.js
+  - js/custom.js
