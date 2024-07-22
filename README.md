@@ -7,16 +7,16 @@ Based on the documentation of [`tiangalo/sqlmodel`](https://github.com/tiangolo/
 Create a new conda environment:
 
 ```sh
-conda create -y -n "ailt-site" python=3.11 ipython
+conda create -y -n "ailt" python=3.11 ipython
 ```
 
 Activate the conda environment:
 
 ```sh
-conda activate ailt-site
+conda activate ailt
 ```
 
-Install `ailt-site` in editable mode during development:
+Install `ailt` in editable mode during development:
 
 ```sh
 pip install -e ".[all]"
