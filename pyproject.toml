@@ -1,0 +1,96 @@
+[project]
+name = "ailt"
+authors = [
+    {name="Amy Fountain", email="avf@arizona.edu"}
+]
+description = "Advancing Indigenous Language Technologies (AILT)"
+version = "0.1.0"
+dependencies=[
+    "fastapi~=0.100.0",
+    "starlette",
+    "httpx",
+    "pydantic>=2.0.0",
+    "uvicorn",
+    "python-multipart",    
+    "typing_extensions", # see https://github.com/pydantic/pydantic/issues/5821#issuecomment-1559196859
+    "func_timeout",
+    # docs
+    "mkdocs-material==9.2.7",
+    "pillow~=9.3.0",
+    "cairosvg~=2.5.2",
+    "mdx-include~=1.4.1",
+    "coverage[toml]>=6.2,<8.0",
+    "mkdocs-markdownextradata-plugin>=0.1.7,<0.3.0",
+    # "mkdocs==1.2.3", 
+    "pdoc3==0.10.0", 
+    "mkdocs-git-snippet==0.1.1", 
+    "mkdocs-git-revision-date-localized-plugin==0.11.1", 
+    "mkdocs-git-authors-plugin==0.6.3", 
+    "mkdocs-rtd-dropdown==1.0.2", 
+    "jinja2<3.1.0"
+]
+
+requires-python = ">=3.8"
+license = {text="CC BY-SA 4.0"} #Apache 2.0"}
+dynamic = ["readme"]
+
+[project.optional-dependencies]
+# Dev dependencies.
+# - pytest: for running tests
+# - black: Autoformatting
+dev = ["pytest", "pytest-cov", "pytest-xdist", "black", "mypy", "coverage"]
+
+demo = ["notebook"]
+
+# all extras
+all = ["ailt[dev]", "ailt[demo]"]
+
+# [tool.setuptools.package-dir]
+# "ailt.site" = "python/ailt/site"
+
+# [tool.setuptools.packages]
+# find = {}  # Scan the project directory with the default parameters
+
+[tool.setuptools.package-data]
+# needed to ensure models are included in package/discoverable
+"*" = ["*.json", "vocab.txt", "*.pt", "*.png", "*.html", "*.yml", "*.yaml"]
+
+[tool.setuptools.dynamic]
+readme = {file = ["README.md"], content-type = "text/markdown"}
+# runnables
+# [project.scripts]
+
+# Minimum requirements for the build system to execute.
+[build-system]
+requires = ["setuptools>=67", "wheel"]
+build-backend = "setuptools.build_meta"
+
+# pytest
+[tool.pytest.ini_options]
+markers = [
+    "ci_only: marks tests to only be run in CI (deselect with '-m \"not ci_only\"')"
+]
+minversion = "7.0"
+addopts = "-v --cov=ailt.site --cov-report html:docs/coverage"
+testpaths = [
+    "python/ailt/site/rest/tests"
+]
+
+# Configuration for Black.
+
+# NOTE: you have to use single-quoted strings in TOML for regular expressions.
+# It's the equivalent of r-strings in Python.  Multiline strings are treated as
+# verbose regular expressions by Black.  Use [ ] to denote a significant space
+# character.
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # The following are specific to Black, you probably don't want those.
+  | blib2to3
+  | tests/data
+  | profiling
+)/
+'''
