@@ -7,16 +7,16 @@ Based on the documentation of [`tiangalo/sqlmodel`](https://github.com/tiangolo/
 Create a new conda environment:
 
 ```sh
-conda create -y -n "ailt-site" python=3.11 ipython
+conda create -y -n "ailt" python=3.11 ipython
 ```
 
 Activate the conda environment:
 
-```sh
-conda activate ailt-site
+```bash
+docker build -f "Dockerfile" -t "ailt/project-site:latest" .
 ```
 
-Install `ailt-site` in editable mode during development:
+Launch the site in development mode on port 8881:
 
 ```sh
 pip install -e ".[all]"
@@ -28,9 +28,15 @@ We use [`mkdocs`](https://www.mkdocs.org/) as our static site generator and use 
 
 
 ```bash
-mkdocs serve -a "127.0.0.1:8000" -w docs
+yarn install .
 ```
 
-## Notes
-- Site source files are located under `docs`
-- Page navigation is defined in `mkdocs.yml`
+Now you should be able to launch the site in development mode:
+
+```bash
+yarn run develop
+```
+
+# Theme
+
+See https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog for override options.
