@@ -43,10 +43,10 @@ dev = ["pytest", "pytest-cov", "pytest-xdist", "black", "mypy", "coverage"]
 demo = ["notebook"]
 
 # all extras
-all = ["ailt-intro-to-databases[dev]", "ailt-intro-to-databases[demo]"]
+all = ["ailt[dev]", "ailt[demo]"]
 
-[tool.setuptools.package-dir]
-"ailt.db" = "python/ailt/db"
+# [tool.setuptools.package-dir]
+# "ailt.site" = "python/ailt/site"
 
 # [tool.setuptools.packages]
 # find = {}  # Scan the project directory with the default parameters
@@ -71,9 +71,9 @@ markers = [
     "ci_only: marks tests to only be run in CI (deselect with '-m \"not ci_only\"')"
 ]
 minversion = "7.0"
-addopts = "-v --cov=ailt.db --cov-report html:docs/coverage"
+addopts = "-v --cov=ailt.site --cov-report html:docs/coverage"
 testpaths = [
-    "python/ailt/db/rest/tests"
+    "python/ailt/site/rest/tests"
 ]
 
 # Configuration for Black.
