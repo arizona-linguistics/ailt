@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 2405.3 672.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8d3cf0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #7a28df;
+        font-family: Impact, Impact;
+        font-size: 144px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="g1074">
+    <g id="g1470">
+      <rect id="rect1457" class="cls-2" x="109.6" y="256.6" width="234.2" height="160"/>
+      <g id="g1309-3">
+        <path id="path1225-7" class="cls-1" d="M226.2,328.3c-64.5,0-116.6,13.1-116.6,29.2v58.4c0,16.1,52.4,29.2,117.1,29.2,64.7,0,117.1-13.1,117.1-29.2v-58.4c0-16.1-52.4-29.2-117.1-29.2h-.5Z"/>
+        <ellipse id="path1225-2-5" class="cls-2" cx="226.7" cy="355" rx="117.1" ry="29.2"/>
+      </g>
+      <g id="g1309">
+        <path id="path1225" class="cls-1" d="M226.2,250c-64.5,0-116.6,13.1-116.6,29.2v58.4c0,16.1,52.4,29.2,117.1,29.2,64.7,0,117.1-13.1,117.1-29.2v-58.4c0-16.1-52.4-29.2-117.1-29.2h-.5Z"/>
+        <ellipse id="path1225-2" class="cls-2" cx="226.7" cy="276.6" rx="117.1" ry="29.2"/>
+      </g>
+      <ellipse id="path1225-2-9" class="cls-1" cx="226.7" cy="256.6" rx="117.1" ry="29.2"/>
+      <g id="g1391">
+        <ellipse id="path1149-1-2" class="cls-2" cx="302.6" cy="328.3" rx="16.9" ry="16.2"/>
+        <ellipse id="path1149-6-8-8" class="cls-2" cx="302.6" cy="406.7" rx="16.9" ry="16.2"/>
+      </g>
+    </g>
+  </g>
+  <text class="cls-3" transform="translate(419.8 403.7)"><tspan x="0" y="0">Introduction to Database Design</tspan></text>
+  <text/>
+</svg>
