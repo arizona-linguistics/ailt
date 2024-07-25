@@ -47,8 +47,8 @@ plugins:
 nav:
   - Overview: index.md
   - Team: team.md
-  - Activities: events.md
   - Courses: courses.md
+  - Tools: tools.md
   - Contact Us: contact.md
 
 markdown_extensions:

@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-ailt.egg-info/PKG-INFO
-ailt.egg-info/SOURCES.txt
-ailt.egg-info/dependency_links.txt
-ailt.egg-info/requires.txt
-ailt.egg-info/top_level.txt
-python/ailt/db/__init__.py
-python/ailt/db/rest/__init__.py

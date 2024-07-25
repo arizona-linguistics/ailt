@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://ailt.arizona.edu"><img src="./img/logos/logo.png" alt="AILT: Advancing Indigenous Language Technologies"></a>
+  <a href="https://ailt.arizona.edu"><img src="./img/logos/ailt.png" alt="AILT: Advancing Indigenous Language Technologies"></a>
 </p>
 
 The **Advancing Indigenous Language Technologies** (AILT) Working Group is coalition of academic and community language workers and scholars joining efforts to support the advancement of language technologies that serve Indigenous language community needs.
@@ -36,7 +36,9 @@ Language Technologies includes, but is not limited to:
 
 ## Interested?
 
- [Contact us](mailto:avf@arizona.edu) for more information about AILT!
+ [Contact us](./contact.md){.internal-link} for more information about AILT!
+
+---
 
 ## This Site
 
@@ -44,7 +46,19 @@ Language Technologies includes, but is not limited to:
 
 **Source Code**: <a href="https://github.com/arizona-linguistics/ailt" target="_blank">https://github.com/arizona-linguistics/ailt</a>
 
----
 ## License
 
 This project is made available under the terms of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+---
+
+## Acknowledgments
+
+<p align="left">
+  <a href="https://www.haury.arizona.edu"><img src="./img/logos/haury.png" alt="The Haury Foundation" width="260px"></a>
+  <a href="https://nsf.gov"><img src="./img/logos/nsf.png" alt="National Science Foundation" width="135px"></a>
+  <a href="https://arizona.edu"><img src="./img/logos/uaz.png" alt="University of Arizona" width="100px"></a>
+  <a href="https://dartmouth.edu"><img src="./img/logos/dartmouth.png" alt="Dartmouth University" width="100px"></a>
+</p>
+
+We are grateful for financial support from the [Agnese Helms Haury Program in Environment and Social Justice](/){.external-link target=_blank} Award through the University of Arizona [College of Social and Behavioral Sciences](https://sbs.arizona.edu){.external-link target=_blank} and the [National Science Foundation](https://nsf.gov){.external-link target=_blank} Award BCS-2347147.  Our project is housed at [The University of Arizona](https://arizona.edu){.external-link target="_blank"} and [Dartmouth University](https://dartmouth.edu){.external-link target="_blank"}.
