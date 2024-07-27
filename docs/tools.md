@@ -2,7 +2,7 @@
   <img class="shadow" src="../img/people/tools.jpg" alt="notebooks and pens, AILT swag from SAIL2024">
 </p>
 
-We are interested in talking to and working with technology specialists and Indigenous language workers to support the advancement of Indigenous Language Technologies.
+We are interested in talking to and working with Indigenous language workers, technology specialists and linguists to support the advancement of Indigenous Language Technologies.
 
 ## Our Expertise
 
@@ -25,6 +25,8 @@ AILT members can currently consult on development of the following types of proj
 AILT Team members have some experience with the following  platforms and applications that are commonly used in language documentation projects.  AILT is not primarily focused on supporting existing tools, but we may be able to provide some support in the following.
 
 - **Elan**: using [MPI's Elan](https://archive.mpi.nl/tla/elan/){.external-link target="_blank"} software as part of the language documentation and multimedia dictionary development process, and to create audio-video materials with multilingual captioning.
+
+- **Praat**: using [Praat](https://praat.org){.external-link target="_blank"} acoustical analysis software to transcribe and analyze the sounds of spoken languages.
 
 - **SooSL**: using [SIL's SooSL](https://soosl.net/){.external-link target="_blank"} software to develop community dictionaries for Indigenous Signed Languages.
 
