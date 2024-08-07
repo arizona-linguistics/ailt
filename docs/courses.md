@@ -22,7 +22,10 @@ We have developed in-person workshops in a variety of other topics, please [cont
 
 We have so far received and are triaging the following workshop requests:
 
-- **Language Technology development with Indigenous Communities**. Training for technology specialists on principles and practices of language technology development with Indigenous communities. Potentially resulting in some kind of badge or certificate.
+- **Language Technology development with Indigenous Communities**: Training for technology specialists on principles and practices of language technology development with Indigenous communities. Potentially resulting in some kind of badge or certificate.
+
+- **Basics of Sustainable Language Technologies for Communities**:
+Training for Indigenous language community members, language workers, and community leaders about best practices in sustainable language technology development and adoption. 
 
 ## Suggest a course, workshop or training!
 
