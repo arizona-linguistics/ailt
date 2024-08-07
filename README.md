@@ -1,6 +1,4 @@
-# Advancing Indigenous Language Technologies
-
-Based on the documentation of [`tiangalo/sqlmodel`](https://github.com/tiangolo/sqlmodel/tree/main/docs).
+# AILT: Advancing Indigenous Language Technologies
 
 ## Development
 
@@ -12,31 +10,23 @@ conda create -y -n "ailt" python=3.11 ipython
 
 Activate the conda environment:
 
-```bash
-docker build -f "Dockerfile" -t "ailt/project-site:latest" .
+```sh
+conda activate ailt
 ```
 
-Launch the site in development mode on port 8881:
+Install `ailt` in editable mode during development:
 
 ```sh
 pip install -e ".[all]"
 ```
+Run development environment:
 
-# Developing the website
+```sh
+mkdocs serve -a "127.0.0.1:8000" -w docs
+```
+
+# Credits and License 
 
 We use [`mkdocs`](https://www.mkdocs.org/) as our static site generator and use the [material theme](https://github.com/squidfunk/mkdocs-material).  Our content and layout is based on the documentation for the [`sqlmodel` Python library](https://github.com/tiangolo/sqlmodel).
 
-
-```bash
-yarn install .
-```
-
-Now you should be able to launch the site in development mode:
-
-```bash
-yarn run develop
-```
-
-# Theme
-
-See https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog for override options.
+This project is made available under the terms of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
