@@ -31,6 +31,7 @@ We expect these goals to evolve and change as we build and maintain communicatio
 ## Our Focus
 
 Language Technologies includes, but is not limited to:
+
 - **digital resource development**, for example, the creation and maintenance of specialized keyboards, databases and repositories, web and/or phone applications; and
 - **natural language processing**, for example, the use of machine learning to create speech-to-text systems to facilitate transcription of audio-video materials, machine translation projects, input tools with predictive text, spellcheckers, and the like.
 
