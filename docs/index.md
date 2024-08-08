@@ -8,7 +8,7 @@ AILT was launched in the summer of 2023 as a collaboration among three academic 
 
 - [the American Indian Language Development Institute](https://aildi.arizona.edu) (AILDI)
 - [the Master’s in Native American Languages and Linguistics](https://linguistics.arizona.edu/ma-native-american-languages-linguistics) (NAMA)
-- [the Human Language Technologies Program](https://hlt.arizona.edu) (HLT)
+- [the Human Language Technologies Program](https://linguistics.arizona.edu/ms-hlt) (HLT)
 
 ## Our Guiding Principles 
 
