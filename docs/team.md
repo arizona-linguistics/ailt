@@ -29,9 +29,9 @@ Our community consultation process was launched at [SAIL2024](https://sites.goog
 - [NAMA](https://linguistics.arizona.edu/ma-native-american-languages-linguistics){.external-link target=_blank} M.A. in  Native American Languages & Linguistics, University of Arizona. 
 - [HLT](https://linguistics.arizona.edu/ms-hlt){.external-link target=_blank} The Human Language Technologies Program (online), University of Arizona. 
 
-## Founding Team
+## Core Team
 
-We began this project in Summer 2023 at the University of Arizona, with the idea to bring together expertise in language revitalization and reclamation with that in human language technologies. Our founding group members included:
+We began this project in Summer 2023 at the University of Arizona, with the idea to bring together expertise in language revitalization and reclamation with that in human language technologies. Our current core group members include:
 
 ### Amy Fountain
 <p><img src="../img/people/amy.jpg" width="100px"></p>
@@ -68,10 +68,6 @@ Independent Scholar, Software Engineer.  John has worked as the technical lead f
 ### Rolando Coto Solano
 <p><img src="../img/people/rolando.png" width="100px"></p>
 [Assistant Professor, Linguistics, Dartmouth University](https://linguistics.dartmouth.edu/people/rolando-coto-solano){.external-link target=_blank}.  [Rolando](https://www.rolandocoto.com/){.external-link target=_blank} works in natural language processing for Indigenous and under-resourced languages, including speech recognition and automated parsing, and language documentation, revitalization and technology including tonal phonetics and phonology, typologies of tonal reduction, and sociophonetics. He has worked with Chibchan, Otomanguean and Polynesian languages. 
-
-### Wilson de Lima Silva
-<p><img src="../img/people/wilson.jpg" width="100px"></p>
-[Associate Professor, Linguistics, University of Arizona](https://linguistics.arizona.edu/person/wilson-de-lima-silva){.external-link target=_blank}. Wilson directs the [M.A. Program in Native American Languages & Linguistics (also known as NAMA)](https://linguistics.arizona.edu/ma-native-american-languages-linguistics){.external-link target=_blank}. He is a field linguist with formal training in theoretical linguistics and language documentation & revitalization who conducts research with the Desano and Siriano, two endangered Eastern Tukanoan languages spoken in the Vaupés Region of Brazil and Colombia; and A'ingae, an isolate language of Ecuadorian Amazon. 
 
 ## Graduate Student participants
 
