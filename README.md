@@ -1,5 +1,17 @@
 # AILT: Advancing Indigenous Language Technologies
 
+## Prereqs
+
+- [minconda](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)
+- [git](https://git-scm.com/)
+- [ssh authentication on github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+## Install
+
+```sh
+git clone git@github.com:arizona-linguistics/ailt.git
+```
+
 ## Development
 
 Create a new conda environment:
