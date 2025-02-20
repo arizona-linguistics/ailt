@@ -75,13 +75,17 @@ Independent Scholar, Software Engineer.  John has worked as the technical lead f
 <p><img src="../img/people/alice.jpg" width="100px"></p>
 Alice is PhD student in [Linguistics at the University of Arizona](https://linguistics.arizona.edu){.external-link target=_blank} focusing on Human Language Technology and Language Revitalization. Alice has worked for several years on the [Coeur d'Alene Online Language Resource Center](https://thecolrc.org){.external-link target=_blank}, and is developing a morphological parser to support full-text search in that application.
 
+### Braden Thue
+<p><img src="../img/people/braden.jpg" width="100px"></p>
+Braden is a Master's student in [Linguistics at the University of Arizona](https://linguistics.arizona.edu){.external-link target=_blank}, focusing on [Native American Languages and Linguistics](https://linguistics.arizona.edu/ma-native-american-languages-linguistics).  Since 2021 Braden has been involved with the Dakota language revitalization efforts of the Sisseton-Wahpeton Oyate on the Lake Traverse Reservation in northeast South Dakota.
+
 ### Jennifer Medina
 <p><img src="../img/people/jennifer.jpg" width="100px"></p>
 Jennifer is a PhD student [Linguistics at the University of Arizona](https://linguistics.arizona.edu){.external-link target=_blank}, focusing on Human Language Technology and Language Revitalization.  Jennifer has worked for several years on the [Coeur d'Alene Online Language Resource Center](https://thecolrc.org){.external-link target=_blank}, and is developing automatic transliteration to support full-text search in that application.
 
-### Braden Thue
-<p><img src="../img/people/braden.jpg" width="100px"></p>
-Braden is a Master's student in [Linguistics at the University of Arizona](https://linguistics.arizona.edu){.external-link target=_blank}, focusing on [Native American Languages and Linguistics](https://linguistics.arizona.edu/ma-native-american-languages-linguistics).  Since 2021 Braden has been involved with the Dakota language revitalization efforts of the Sisseton-Wahpeton Oyate on the Lake Traverse Reservation in northeast South Dakota.
+
+
+
 
 ---
 
