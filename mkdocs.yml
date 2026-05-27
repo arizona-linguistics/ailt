@@ -49,6 +49,7 @@ nav:
   - Team: team.md
   - Courses: courses.md
   - Tools: tools.md
+  - Activities: activities.md
   - Contact Us: contact.md
 
 markdown_extensions:
