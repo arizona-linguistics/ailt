@@ -50,6 +50,7 @@ nav:
   - Courses: courses.md
   - Tools: tools.md
   - Videos: videos.md
+  - Activities: activities.md
   - Contact Us: contact.md
 
 markdown_extensions:
