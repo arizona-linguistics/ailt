@@ -1,15 +1,8 @@
-The AILT working group invites participation from communities, academic scholars, and interested others.
 
 <p align="center">
 
-<img class="shadow" src="../img/people/some-team.jpg" alt="Some of the AILT Team at SAIL, April 2024">
+<img class="shadow" src="../img/people/some-team.jpg" alt="Some of the AILT Team at SAIL, April 2024" width="60%">
 </p>
-
-## Community Partners
-
-Coming soon!
-
-If you would like to get involved, [please reach out](mailto:avf@arizona.edu).
 
 ## Community Consultation
 
@@ -83,7 +76,9 @@ Braden is a Master's student in [Linguistics at the University of Arizona](https
 <p><img src="../img/people/jennifer.jpg" width="100px"></p>
 Jennifer is a PhD student [Linguistics at the University of Arizona](https://linguistics.arizona.edu){.external-link target=_blank}, focusing on Human Language Technology and Language Revitalization.  Jennifer has worked for several years on the [Coeur d'Alene Online Language Resource Center](https://thecolrc.org){.external-link target=_blank}, and is developing automatic transliteration to support full-text search in that application.
 
-### test
+### Ross Freeman
+<p><img src="../img/people/ross.jpg" width="100px"></p>
+Ross is a MS student in [the Human Language Technology Program](https://linguistics.arizona.edu/ms-hlt){.external-link target=_blank} where he has worked as a Research Assistant and co-founded our AILT-Comms listserv.
 
 
 

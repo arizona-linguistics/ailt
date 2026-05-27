@@ -1,6 +1,6 @@
 <p align="center">
 
-<img class="shadow" src="../img/people/sail-team.jpg" alt="Rolando Coto and Amy Fountain at SAIL, April 2024">
+<img class="shadow" src="../img/people/sail-team.jpg" alt="Rolando Coto and Amy Fountain at SAIL, April 2024" width="60%">
 </p>
 
 If you're interested in working with us in any capacity, we'd love to hear from you!

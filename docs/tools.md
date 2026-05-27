@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="shadow" src="../img/people/tools.jpg" alt="notebooks and pens, AILT swag from SAIL2024">
+  <img class="shadow" src="../img/people/tools.jpg" alt="notebooks and pens, AILT swag from SAIL2024" width="60%">
 </p>
 
 We are interested in talking to and working with Indigenous language workers, technology specialists and linguists to support the advancement of Indigenous Language Technologies.

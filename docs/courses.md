@@ -1,7 +1,5 @@
-One of our goals is to develop courses, workshops and trainings that can be easily accessed and used by community language workers and interested others.
-
 <p align="center">
-  <a href="https://ailt.arizona.edu/courses/intro-to-databases/colang"><img class="shadow" src="../img/people/intro-to-dbs.jpg" alt="Students and facilitators from the Basics of Database Design workshop at CoLang, June 2024"></a>
+  <a href="https://ailt.arizona.edu/courses/intro-to-databases/colang"><img class="shadow" src="../img/people/intro-to-dbs.jpg" alt="Students and facilitators from the Basics of Database Design workshop at CoLang, June 2024" width="60%"></a>
 </p>
 
 ## Available Now
