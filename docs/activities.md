@@ -13,6 +13,8 @@ Cummings, Craig. 2025.  Adding human languages to computers and mobile devices. 
 
 Fountain, Amy, Jennifer Medina, Michael Hammond, Gus Hahn-Powell, Eric Jackson, Youmi Ji, Alice Saeborn Kwak, Ross Freeman, Braden Thue, Sydney Bess Greenspun, Jake Mains, Michael Gallaspy, John Ivens, Aresta Tsosie-Paddock and Rolando Coto Solano. 2026. Improving language technology with Indigenous language communities.  Linguistic Society of America Annual Meeting. [Poster](https://drive.google.com/file/d/1N-jXtTvlmG063ZCTvkQemx24_OfVhoW2/view?usp=sharing){.external-link target=_blank}
 
+Fountain, Amy. 2026. A view on AI & Indigenous Languages from the Advancing Indigenous Language Technologies Working Group. Sunaŵi AI & Indigenous Language Revitalization Workshop. [Talk](https://drive.google.com/file/d/1q29p15-88qPDe8Uqi9NPkt71Dwqlfw0S/view?usp=sharing){.external-link target=_blank}
+
 Lopez, Monte, Sierra Ward, Rolando Coto-Solano and Amy Fountain. 2026. ASR for Transcription for Language Departments.  Linguistic Society of America Annual Meeting. [LEXING Talk] *get link*.
 
 Thue, Braden and Michael Gallaspy. 2026. An orthography conversion tool for Dakota. Linguistic Society of America Annual Meeting. [LEXING Talk] *get link*.
