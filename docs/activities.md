@@ -47,7 +47,6 @@ Jackson, Eric, assisted by John Ivens, Gus Hahn Powell, Braden Thue, and Amy Fou
 Ivens, John, Amy Fountain, Gus Hahn Powell and Amy Fountain. 2025.  Introduction to database design, one day-long lesson; with Salt River Pima Maricopa Indian Communities.
 
 ## Courses
-
 LING424/524, Methods and Ethics in Linguistics:  Language Technology for Data Sovereignty.  Offered at AILDI's 2026 Summer Institute. [Syllabus](https://drive.google.com/file/d/1Ds09BJzZeOmpt4nMU2hXnY1f21EILzcc/view?usp=drive_link){.external-link target=_blank}
 
 ## Acknowledgments
