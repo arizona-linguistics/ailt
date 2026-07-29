@@ -5,7 +5,7 @@
 
 ## Publications
 
-Thue, Braden, Sydney Bess Greenspun, Rolando Coto-Solano, Amy Fountain, Michael Gallaspy, Gus Hahn Powell, Michael Hammond, John Ivens, Eric Jackson, Sevren Quijada, and Aresta Tsosie Paddock. To Appear. Introducing AILT: Advancing Indigenous Language Technologies. Coyote Papers. [Manuscript](https://drive.google.com/file/d/19qe7V-x5B_2oGrkhQbEHrd0A11W0pcwK/view?usp=drive_link){.external-link target=_blank}
+Thue, Braden, Sydney Bess Greenspun, Rolando Coto-Solano, Amy Fountain, Michael Gallaspy, Gus Hahn Powell, Michael Hammond, John Ivens, Eric Jackson, Sevren Quijada, and Aresta Tsosie Paddock. 2026. Introducing AILT: Advancing Indigenous Language Technologies. Coyote Papers. [Article](https://drive.google.com/file/d/1McD79H__SmldaS1LUq2LENR37QxdqqIQ/view?usp=drive_link){.external-link target=_blank}
 
 ## Presentations
 
@@ -13,7 +13,11 @@ Cummings, Craig. 2025.  Adding human languages to computers and mobile devices. 
 
 Fountain, Amy, Jennifer Medina, Michael Hammond, Gus Hahn-Powell, Eric Jackson, Youmi Ji, Alice Saeborn Kwak, Ross Freeman, Braden Thue, Sydney Bess Greenspun, Jake Mains, Michael Gallaspy, John Ivens, Aresta Tsosie-Paddock and Rolando Coto Solano. 2026. Improving language technology with Indigenous language communities.  Linguistic Society of America Annual Meeting. [Poster](https://drive.google.com/file/d/1N-jXtTvlmG063ZCTvkQemx24_OfVhoW2/view?usp=sharing){.external-link target=_blank}
 
-Fountain, Amy. 2026. A view on AI & Indigenous Languages from the Advancing Indigenous Language Technologies Working Group. Sunaŵi AI & Indigenous Language Revitalization Workshop. [Talk](https://drive.google.com/file/d/1q29p15-88qPDe8Uqi9NPkt71Dwqlfw0S/view?usp=sharing){.external-link target=_blank}
+Fountain, Amy. 2026. A view on AI & Indigenous Languages from the Advancing Indigenous Language Technologies Working Group. Sunaŵi AI & Indigenous Language Revitalization Workshop. Loyola Marymount University, June 8-11. [Talk](https://drive.google.com/file/d/1q29p15-88qPDe8Uqi9NPkt71Dwqlfw0S/view?usp=sharing){.external-link target=_blank}
+
+Fountain, Amy. 2026.  A quick and dirty guide to language documentation with technology: a view from AILT.  Trails Talk, provided for the Northwest Indigenous Language Institute meetings on July 23. [Talk](https://drive.google.com/file/d/1VaTxFvlrBRmGS6g8kiPbL0R5SajCdsal/view?usp=drive_link){.external-link target=_blank}
+
+Fountain, Amy. 2026. Invited Panel on Indigenous Languages and Ethics, Computer Assisted Language Instruction Consortium (Calico).  Miami University of Ohio, July 9. [Talk](https://drive.google.com/file/d/1JCNaUEjjaTo69QRvJWmFcR2_uh-azN1p/view?usp=sharing){.external-link target=_blank}  
 
 Lopez, Monte, Sierra Ward, Rolando Coto-Solano and Amy Fountain. 2026. ASR for Transcription for Language Departments.  Linguistic Society of America Annual Meeting. [LEXING Talk] *get link*.
 
@@ -41,6 +45,9 @@ Hahn Powell, Gus, John Ivens and Amy Fountain. 2024. Basics of database design a
 Jackson, Eric, assisted by John Ivens, Gus Hahn Powell, Braden Thue, and Amy Fountain. 2025. Introduction to FLEx.  Three day-long lessons; with Salt River Pima Maricopa Indian Communities.
 
 Ivens, John, Amy Fountain, Gus Hahn Powell and Amy Fountain. 2025.  Introduction to database design, one day-long lesson; with Salt River Pima Maricopa Indian Communities.
+
+## Courses
+LING424/524, Methods and Ethics in Linguistics:  Language Technology for Data Sovereignty.  Offered at AILDI's 2026 Summer Institute. [Syllabus](https://drive.google.com/file/d/1Ds09BJzZeOmpt4nMU2hXnY1f21EILzcc/view?usp=drive_link){.external-link target=_blank}
 
 ## Acknowledgments
 
