@@ -5,7 +5,7 @@
 
 ## Publications
 
-Thue, Braden, Sydney Bess Greenspun, Rolando Coto-Solano, Amy Fountain, Michael Gallaspy, Gus Hahn-Powell, Michael Hammond, John Ivens, Eric Jackson, Sevren Quijada, and Aresta Tsosie-Paddock. 2026. Introducing AILT: Advancing Indigenous Language Technologies. Coyote Papers. [Article](https://drive.google.com/file/d/1McD79H__SmldaS1LUq2LENR37QxdqqIQ/view?usp=drive_link){.external-link target=_blank}
+Thue, Braden, Sydney Bess Greenspun, Rolando Coto-Solano, Amy Fountain, Michael Gallaspy, Gus Hahn-Powell, Michael Hammond, John Ivens, Eric Jackson, Sevren Quijada, and Aresta Tsosie-Paddock. 2025. Introducing AILT: Advancing Indigenous Language Technologies. Coyote Papers. [Article](https://drive.google.com/file/d/1McD79H__SmldaS1LUq2LENR37QxdqqIQ/view?usp=drive_link){.external-link target=_blank}
 
 ## Presentations
 
@@ -36,7 +36,7 @@ Coto-Solano, Rolando. 2024a. Speech Recognition and Indigenous Languages.  Works
 
 Coto-Solano, Rolando. 2024b. Natural Language Processing for Indigenous Languages.  Workshop at CoLang.  Arizona State University.
 
-Coto0Solano, Rolando and Gabriela de la Cruz Sánchez. 2026. Automatic Transcription of Indigenous Languages.  Workshop at CoLang.  University of Nevada, Reno.
+Coto-Solano, Rolando and Gabriela de la Cruz Sánchez. 2026. Automatic Transcription of Indigenous Languages.  Workshop at CoLang.  University of Nevada, Reno.
 
 de la Cruz Sánchez, Gabriela and Eric Jackson. 2024. Introduction to FLEx 1 and 2. Workshop at CoLang.  Arizona State University.
 
